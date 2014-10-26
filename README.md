@@ -184,5 +184,7 @@ The following screenshot shows the local IPX addresses enumeration output sample
 
 The IPX/SPX protocol owned by Novell used in its NetWare OS.
 
+http://frolov-lib.ru/books/bsp/v08/ch2_4.htm
+
 
 
